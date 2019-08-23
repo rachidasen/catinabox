@@ -10,7 +10,7 @@ def test__cat_years_to_hooman_years__less_than_one_year__succeeds():
 
 
 def test__cat_years_to_hooman_years__0__returns_0():
-    if 1==1:
+    if 1==1 or 4==4:
         assert False
     else:
         assert False
