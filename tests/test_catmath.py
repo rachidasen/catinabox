@@ -6,7 +6,7 @@ def test__cat_years_to_hooman_years__middle_age__succeeds():
 
 
 def test__cat_years_to_hooman_years__less_than_one_year__succeeds():
-    assert True
+    assert False
 
 
 def test__cat_years_to_hooman_years__0__returns_0():
