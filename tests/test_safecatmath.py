@@ -5,6 +5,7 @@ from catinabox import safecatmath
 
 def test__cat_years_to_hooman_years__middle_age__succeeds():
     hooman_age = safecatmath.cat_years_to_hooman_years(7)
+    print 'hi'
     assert hooman_age == 35
 
 
